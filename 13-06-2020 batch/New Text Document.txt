@@ -8,11 +8,23 @@
 
 Good afternoon! Everyone, Hope you all are doing well.
 
-2. ならう(習う)  /   まなぶ (学ぶ)  /  べんきょう(勉強)
-narau vs manabu vs benkyou
+2. 
+あげる」
+あげる (ageru) is used when the giver is the subject of the sentence.
+Giver + は/が + Recipient + に + Object + を + あげる
+私は友達に花をあげた。
 
-narau, manabu = learn
-benkyousuru = study
+くれる (kureru) is also used when the giver is the subject of the sentence.
+Giver + は/が + Recipient + に + Object + を + くれる
+友達は母に本をくれた。
 
-"narau" has passive meaning (at school or class).
-the others has active meaning (learn by myself).
+もらう」there is only one version of ‘to receive’ in Japanese.
+Giver + から + Object + を + もらう
+ecipient + は/が + Giver + に + Object + を + もらう
+友達から花をもらった。
+same as
+友達は私に花をもらった。
+
+YARU is used for giving to someone of a lower status, like a child, subordinate or a pet.  AGERU is used for equals or subordinates.  SASHIAGERU is used for superiors.
+
+
